@@ -1,1 +1,1 @@
-SQL PROJECT_1
+This is my first SQL project. This project focuses on querying a database of workers. The goal is to practice SQL skills by writing queries, and performing data analysis on worker-related information.
